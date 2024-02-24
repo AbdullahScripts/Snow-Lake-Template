@@ -2,8 +2,13 @@
 
 This repository contains the code for the SnowLake website, a digital and marketing company. The website is built using HTML, CSS, and Bootstrap.
 
+## Deployment
+
+The SnowLake website is deployed and can be accessed at [https://snowlake.surge.sh/](https://snowlake.surge.sh/).
+
 ## Table of Contents
 - [SnowLake Website](#snowlake-website)
+  - [Deployment](#deployment)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Features](#features)
